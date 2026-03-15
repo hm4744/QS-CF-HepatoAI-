@@ -77,7 +77,7 @@ A **smartphone-installable version of HepatoAI** is available for portable use.
 
 Download APK:
 
-[Google Drive link]
+[https://drive.google.com/drive/folders/1CK7roDlVOYhTZ74vD00tHLvs1MTFkjXA?usp=drive_link]
 
 ### Installation Steps
 
