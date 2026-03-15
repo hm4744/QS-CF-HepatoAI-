@@ -1,12 +1,24 @@
-# QS|CF–HepatoAI Platform
+<p align="center">
+
+<img src="srm_logo.svg" width="110"/>
+
+</p>
+
+<p align="center">
+<img src="hepatoai_icon.png" width="120"/>
+</p>
+
+<h1 align="center">
+QS|CF–HepatoAI Platform
+</h1>
+<p align="center">
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Android-blue)
 ![Language](https://img.shields.io/badge/code-HTML%20CSS%20JavaScript-orange)
 ![Status](https://img.shields.io/badge/status-Research%20Prototype-purple)
 ![Version](https://img.shields.io/badge/version-v1.0-brightgreen)
-
-
+![Institution](https://img.shields.io/badge/institution-SRMIST-red)
 
 ## What is HepatoAI?
 
@@ -94,15 +106,10 @@ https://codepen.io/Aashik-Mohammed/pen/ZYONpvr
 
 ---
 
-# Interface Preview
+# HepatoAI Interface Preview
 
 ![HepatoAI Interface](interface.png)
 
----
-
-# Repository Structure
-
----
 
 # Code Availability
 
@@ -135,6 +142,6 @@ This project is distributed under the open-source license included in this repos
 For research collaboration or technical inquiries:
 
 Mohammed Hefayathullah - SRMIST KTR  
-Electrochemical Biosensor Researcher | AI-driven digital tools for Healthcare  
+Materials Electrochemistry Laboratory, India. 
 
 
