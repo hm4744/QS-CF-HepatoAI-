@@ -1,6 +1,3 @@
-<table width="100%">
-<tr>
-<td width="80%">
 
 <h1>
 <img src="hepatoai_icon.png" width="55" align="center">
@@ -8,15 +5,8 @@ QS|CF–HepatoAI Platform
 </h1>
 
 <p>
-Electrochemical Biosensing Research Group <br>
-SRM Institute of Science and Technology (SRMIST), India
-</p>
 
-</td>
 
-<td width="20%" align="right">
-<img src="srm_logo.png" width="120">
-</td>
 
 </tr>
 </table>
@@ -153,7 +143,8 @@ This project is distributed under the open-source license included in this repos
 
 For research collaboration or technical inquiries:
 
-Mohammed Hefayathullah - SRMIST KTR  
-Materials Electrochemistry Laboratory, India. 
+Mohammed Hefayathullah
+Materials Electrochemistry Laboratory, SRMIST-KTR, India 
+hm4744@srmist.edu.in 
 
 
