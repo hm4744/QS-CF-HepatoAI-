@@ -1,0 +1,11 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mohamed"
+  given-names: "Hefayathullah"
+  google scholar: "https://scholar.google.com/citations?user=kK1wknAAAAAJ&hl=en"
+title: "QS-CF-HepatoAI"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-03-16
+url: "https://github.com/hm4744/QS-CF-HepatoAI"
