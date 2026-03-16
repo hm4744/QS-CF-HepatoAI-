@@ -15,8 +15,10 @@ QS|CF–HepatoAI Platform
 ![Platform](https://img.shields.io/badge/platform-Android-blue)
 ![Language](https://img.shields.io/badge/code-HTML%20CSS%20JavaScript-orange)
 ![Status](https://img.shields.io/badge/status-Research%20Prototype-purple)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.19055514)
 ![Version](https://img.shields.io/badge/version-v1.0-brightgreen)
-![Institution](https://img.shields.io/badge/institution-SRMIST-red)
+![Institution](https://img.shields.io/badge/institution-SRMIST-red)(https://www.srmist.edu.in/)
+
 
 </p>
 
