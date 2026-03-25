@@ -61,7 +61,16 @@ C = (I − b) / m
 
 This deterministic computation removes the need for runtime regression fitting and ensures full consistency with the **experimentally validated electroanalytical calibration model**.
 
----
+---## Analytical Performance
+
+A summary of the electroanalytical performance of the QS|CF microsensor for target drugs is presented below.
+
+| Parameter        | Acetaminophen (APAP) | Diclofenac (DCF) |
+|----------------|----------------------|------------------|
+| Linear Range    | 1.0 nM–500 µM             | 5.0 nM–500 µM         |
+| area-normalized Sensitivity (_i_-t)     | 1.19 μA cm-2 µM-1        | 0.0963 μA cm-2 µM-1    |
+| Limit of Detection (LOD) | 0.89 nM       | 4.61 nM            |
+| Correlation Coefficient (R²) | 0.98   | 0.97            |
 
 # Development Workflow
 
@@ -139,7 +148,6 @@ The integrated operational workflow of the **QS|CF–HepatoAI platform** is illu
 - Designed for research and prototype-level diagnostic interpretation  
 
 ---
-
 # Live Prototype
 
 Interactive prototype available on CodePen:
