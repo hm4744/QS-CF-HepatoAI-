@@ -88,14 +88,55 @@ Download APK:
 4. Launch HepatoAI and input measured current values from the QS|CF microsensor  
 
 ---
+## Usage
 
-# Usage
+The integrated operational workflow of the **QS|CF–HepatoAI platform** is illustrated below, demonstrating the seamless coupling of electrochemical sensing, signal acquisition, and real-time clinical decision support.
 
-1. Record chronoamperometric current using the **QS|CF microsensor**
-2. Input the measured current value into HepatoAI
-3. Select the analyte (APAP or DCF)
-4. HepatoAI automatically calculates concentration
-5. The platform provides **clinically interpretable output classification**
+<p align="center">
+  <img src="workflow.png" width="950">
+</p>
+
+### Operational Workflow
+
+1. **Sample Acquisition and Serum Extraction**  
+   Biological samples are collected, followed by serum separation for electrochemical analysis.
+
+2. **Sample Preparation**  
+   The extracted serum is diluted in an appropriate buffer system to ensure electrochemical compatibility and signal stability.
+
+3. **Electrochemical Signal Generation**  
+   The prepared sample is analyzed using the **QS|CF microsensor** interfaced with a potentiostat, where chronoamperometric current responses are recorded.
+
+4. **Signal Transmission and Data Handling**  
+   The acquired current signal is transferred to the HepatoAI interface for computational processing.
+
+5. **Deterministic Concentration Estimation**  
+   Embedded calibration models convert the measured current (µA) into quantitative analyte concentrations (µM).
+
+6. **Automated Clinical Classification**  
+   The calculated concentrations are categorized into clinically relevant ranges:
+   - Therapeutic  
+   - Low  
+   - Elevated  
+
+7. **Real-Time Decision Support Output**  
+   The final interpreted result is displayed through a user-friendly interface, enabling rapid analytical interpretation and facilitating clinical decision-making.
+
+---
+
+### User Interaction
+
+1. Record current using the QS|CF microsensor  
+2. Input the measured current into HepatoAI  
+3. Select analyte of need (APAP or DCF)  
+4. Obtain instantaneous concentration and clinical classification  
+
+---
+### Notes
+
+- Ensure calibration conditions match those used in the embedded model  
+- Applicable for serum-based electrochemical measurements  
+- Designed for research and prototype-level diagnostic interpretation  
 
 ---
 
