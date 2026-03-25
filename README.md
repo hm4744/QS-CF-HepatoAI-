@@ -2,7 +2,14 @@
 <h1>
 <img src="hepatoai_icon.png.png" width="55" align="center">
 QS|CF–HepatoAI Platform   
+<
+<p align="left">
+  <img src="assets/workflow.png" width="100%" style="max-width:1100px;">
+</p>
 
+<p align="center"><i>
+Electroanalytical-to-digital translation enabling real-time therapeutic drug monitoring
+</i></p>
 <p>
 
 
