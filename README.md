@@ -167,27 +167,54 @@ https://github.com/hm4744/QS-CF-HepatoAI-.git
 The repository contains the complete implementation of the HepatoAI analytical engine including the **HTML interface, CSS styling framework, and JavaScript-based computational logic** used for electroanalytical signal interpretation.
 
 ---
+## Frequently Asked Questions (FAQ)
+
+**1. What type of input does HepatoAI require?**  
+*HepatoAI requires chronoamperometric current values (µA) obtained from the QS|CF microsensor under experimentally validated conditions.*
+
+
+**2. Does HepatoAI perform real-time machine learning predictions?**  
+*No. HepatoAI operates using a deterministic analytical framework based on experimentally derived calibration equations, ensuring reproducibility and consistency with validated electrochemical data.*
+
+
+**3. Can HepatoAI be used with other sensors?**  
+*The current implementation is specific to the QS|CF microsensor, as the embedded calibration models are derived from its electroanalytical response. Use with other sensors would require recalibration and corresponding model modification.*
+
+
+**4. What biological matrices are supported?**  
+*HepatoAI is designed for diluted serum-based electrochemical measurements. Performance in other biological matrices has not been validated in the current version.*
+
+
+**5. What defines “therapeutic”, “low”, and “elevated” levels?**  
+*These classifications are based on predefined threshold ranges derived from literature-informed therapeutic windows and experimentally validated calibration datasets.*
+
+
+**6. Is HepatoAI intended for clinical use?**  
+*No. HepatoAI is a research prototype intended for analytical and experimental interpretation only, and is not designed for direct clinical decision-making.*
+
+
+**7. Can the calibration model be updated?**  
+*Yes. The platform is modular, and the calibration equations embedded within the JavaScript logic can be updated to incorporate new experimental datasets or additional analytes.*
+
+**8. Does the app require internet connectivity?**  
+*No. The HepatoAI APK operates entirely offline, with all computations performed locally within the application.*
+
+---
 
 # Citation
 
 If you use HepatoAI or its analytical framework in your research, please cite the associated publication describing the **QS|CF microsensor platform and HepatoAI diagnostic interface**.
 
 ---
-
 # License
 
 This project is distributed under the open-source license included in this repository.
 
 ---
-
 # Contact
-
 For research collaboration or technical inquiries:
-
 Mohamed Hefayathullah
-
 Materials Electrochemistry Laboratory, SRMIST-KTR, India
-
 Email: hm4744@srmist.edu.in [Google scholar](https://scholar.google.com/citations?user=kK1wknAAAAAJ&hl=en)
 
 
